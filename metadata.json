@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SveaPark: AI Parking Assistant",
+  "description": "An intelligent assistant that scans Swedish parking signs to tell you exactly if and when you can park. Includes AI-powered photo editing features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
